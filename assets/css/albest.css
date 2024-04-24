@@ -1,0 +1,22 @@
+/*
+  Developer: Albert Casha 
+  Purpose: CSS for calculator webpage
+*/
+
+:root {
+  --border-color: #007bff;
+  --button-size: 20px;
+  --border-radius: 10px;
+  --hover-color: lightgrey;
+  --click-color: grey;
+}
+
+/* body is the selector */
+body {
+  /* 
+      Declaration block composed of one or more 
+      Property: Value;
+    */
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: blueviolet;
+}
